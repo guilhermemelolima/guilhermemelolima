@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá 🤙 ! Eu sou Guilherme
 
-<!--
-**guilhermemelolima/guilhermemelolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 estou estudando Java
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/guilhermemelolima">
+    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=guilhermemelolima&show_icons=true&theme=tokyonight" />
+    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemelolima&layout=compact&theme=tokyonight" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block" ><br>
+  <img alingn="center" height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img  alingn="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alingn="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>   
+
+<div><br>
+  
+  <a href="mailto:limaguilherme.melo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://br.linkedin.com/in/guilherme-melo-de-lima">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
