@@ -18,7 +18,7 @@
     <a href="https://github.com/guilhermemelolima/algoritmos-java">
         <img alingn="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
         </a>
-    <a href=" https://github.com/guilhermemelolima/algoritmo-python">
+    <a href="https://github.com/guilhermemelolima/algoritmos-python">
         <img alingn="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
     <a href="https://github.com/guilhermemelolima/algoritmos-javascript">
