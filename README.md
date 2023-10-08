@@ -10,13 +10,18 @@
 </div>
 
 <div style="display: inline_block" ><br>
-  <img alingn="center" height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java"/>
-  <img  alingn="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
-  <img alingn="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <a href="https://github.com/guilhermemelolima/algoritmos-java">
+    <img alingn="center" height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java"/>
+  </a>
+  <a href=" https://github.com/guilhermemelolima/algoritmo-python">
+    <img alingn="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  </a>
+  <a href="https://github.com/guilhermemelolima/algoritmos-javascript">
+    <img  alingn="center" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+  </a>  
 </div>   
 
-<div><br>
-  
+<div><br>  
   <a href="mailto:limaguilherme.melo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
