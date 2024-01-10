@@ -12,7 +12,7 @@
         <img align="right" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemelolima&hide_progress=true&theme=tokyonight" />
     </a>
 </div>
-
+<!--
 ## Tecnologias
 <div >
     <a href="https://github.com/guilhermemelolima/algoritmos-java">
@@ -28,7 +28,7 @@
         <img  alingn="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </a>
 </div>   
-
+-->
 ## Contato
 <div>
   <a href="https://br.linkedin.com/in/guilherme-melo-de-lima">
