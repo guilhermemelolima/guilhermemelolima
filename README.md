@@ -13,7 +13,7 @@
     </a>
 </div>
 
-## Tecnologias
+### Tecnologias
 <div >
     <a href="https://github.com/guilhermemelolima/algoritmos-java">
         <img alingn="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -34,7 +34,7 @@
 </div>   
 
 
-## Contato
+### Contato
 <div>
   <a href="https://br.linkedin.com/in/guilherme-melo-de-lima">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
