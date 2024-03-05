@@ -1,16 +1,9 @@
 <h1> Olá 🤙 ! Eu sou Guilherme</h1>
 
 - 🌱 Em constante aprendizado
-<!--
-[![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/guilhermemelolima/algoritmos-java)
--->
 
-<div>
-    <a href="https://github.com/guilhermemelolima">
-       <!-- <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=guilhermemelolima&show_icons=true&theme=tokyonight" />-->
-        <img align="right" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemelolima&hide_progress=true&layout=compact&theme=tokyonight" />
-    </a>
-</div>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemelolima&hide_progress=true&theme=tokyonight)
+    
 
 ### Tecnologias
 
