@@ -1,7 +1,6 @@
 <h1> Olá 🤙 ! Eu sou Guilherme</h1>
 
-- 🌱 Estudando Java
-
+- 🌱 Em constante aprendizado
 <!--
 [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/guilhermemelolima/algoritmos-java)
 -->
